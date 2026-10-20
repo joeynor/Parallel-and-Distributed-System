@@ -1,3 +1,3 @@
 # Parallel-and-Distributed-System
 Source codes to accompany the course notes for BICS 3303 Parallel and Distributed Systems.
-All the example codes should be in here.
+All the example codes should be in [examples](examples/)
